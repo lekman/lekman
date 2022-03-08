@@ -13,4 +13,4 @@ I provide the following service offerings:
 - Quality Assurance for Software Platforms
 - Skill and Knowledge Ramp-up
 
-You can reach me via [LinkedIn](https://linkedin.com/in/lekman) or chat directly on [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=tobias@lekman.com).
+You can reach via my [website](https://lekman.com/tobias), on [LinkedIn](https://linkedin.com/in/lekman) or chat directly on [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=tobias@lekman.com).
