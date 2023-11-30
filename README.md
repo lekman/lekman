@@ -1,10 +1,10 @@
-I focus on tactical and strategic **IT architecture** and **governance strategies**.
+With a career spanning 25 years in the IT sector, I have developed a focus on both tactical and strategic IT architecture and governance. This extensive experience has involved participation in hundreds of project deliveries across various industries.
 
-With _**25 years of experience**_ in IT, I have been involved in hundreds of project deliveries within many industries. My role varies from _**Enterprise Architect**_, _**Solutions Architect**_, _**Technical Architect**_, _**Software Architect**_, _**Security Architect**_ and _**Data Architect**_.
+**Architectural Roles**: My professional journey has seen me in diverse roles such as Enterprise Architect, Solutions Architect, Technical Architect, Software Architect, Security Architect, and Data Architect. This variety of positions reflects my adaptability and comprehensive understanding of the IT landscape.
 
-My technical expertise is within cloud-based enterprise software platforms, using _**Cloud Services**_ such as Amazon AWS, Google Cloud and Microsoft Azure, _**Data and Business Intelligence**_ platforms based on SQL Server, NoSQL, Data Warehousing and BigData, _**Artificial Intelligence**_ and machine learning models as well as _**Enterprise Integration**_ platforms.
+**Technical Expertise**: I specialize in cloud-based enterprise software platforms, with proficiency in Cloud Services including Amazon AWS, Google Cloud, and Microsoft Azure. My expertise extends to Application and Software Design, DevOps and DevSecOps workflow optimization, Data and Business Intelligence platforms, Artificial Intelligence, machine learning models, and Enterprise Integration platforms.
 
-I provide the following service offerings:
+**Service Offerings**:
 
 - Architecture Planning and Design
 - Deployment and Planning Services
