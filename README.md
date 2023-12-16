@@ -2,7 +2,7 @@ With a career spanning 25 years in the IT sector, I have developed a focus on bo
 
 **Architectural Roles**: My professional journey has seen me in diverse roles such as Enterprise Architect, Solutions Architect, Technical Architect, Software Architect, Security Architect, and Data Architect. This variety of positions reflects my adaptability and comprehensive understanding of the IT landscape.
 
-**Technical Expertise**: I specialize in cloud-based enterprise software platforms, with proficiency in Cloud Services including Amazon AWS, Google Cloud, and Microsoft Azure. My expertise extends to Application and Software Design, DevOps and DevSecOps workflow optimization, Data and Business Intelligence platforms, Artificial Intelligence, machine learning models, and Enterprise Integration platforms.
+**Technical Expertise**: I specialise in cloud-based enterprise software platforms, with proficiency in Cloud Services including Amazon AWS, Google Cloud, and Microsoft Azure. My expertise extends to Application and Software Design, DevOps and DevSecOps workflow optimisation, Data and Business Intelligence platforms, Artificial Intelligence, machine learning models, and Enterprise Integration platforms.
 
 **Service Offerings**:
 
